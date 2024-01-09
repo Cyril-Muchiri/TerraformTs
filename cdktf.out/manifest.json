@@ -1,0 +1,13 @@
+{
+  "version": "0.19.2",
+  "stacks": {
+    "TERRAFORM-TS": {
+      "name": "TERRAFORM-TS",
+      "constructPath": "TERRAFORM-TS",
+      "workingDirectory": "stacks/TERRAFORM-TS",
+      "synthesizedStackPath": "stacks/TERRAFORM-TS/cdk.tf.json",
+      "annotations": [],
+      "dependencies": []
+    }
+  }
+}

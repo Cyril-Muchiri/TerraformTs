@@ -1,0 +1,18 @@
+{
+  "//": {
+    "metadata": {
+      "backend": "local",
+      "stackName": "TERRAFORM-TS",
+      "version": "0.19.2"
+    },
+    "outputs": {
+    }
+  },
+  "terraform": {
+    "backend": {
+      "local": {
+        "path": "/home/chief/Desktop/projects/TERRAFORM-TS/terraform.TERRAFORM-TS.tfstate"
+      }
+    }
+  }
+}
